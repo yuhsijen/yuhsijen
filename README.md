@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I am Jen Yu-Hsi 👋
+# Hello, I am Yu-Hsi Jen 👋
 Welcome to my GitHub profile!
 
 ## About Me
-
 I am a seasoned technical project manager and software developer with a passion for creating efficient digital solutions. I hold an MBA and several from IT to Finance certifications including PMP, CSM, and PMI-ACP, reflecting my dedication to professional growth and project excellence.
 
 In my current role, I am deeply involved in leveraging Microsoft's ecosystem, specifically Azure AI and LLM models, to enhance end to end business processes and deliver digital solutions for the business.
@@ -34,7 +33,7 @@ In my current role, I am deeply involved in leveraging Microsoft's ecosystem, sp
 - Certified Scrum Master (CSM)
 
 ## Connect with Me
-- **LinkedIn:** [jenyuhsi](https://www.linkedin.com/in/jenyuhsi/)
+- **LinkedIn:** [Yu-Hsi Jen](https://www.linkedin.com/in/jenyuhsi/)
 
 Feel free to connect and reach out if you want to collaborate on projects or share insights.
 
