@@ -12,28 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I am Yu-Hsi Jen 👋
+# Hello, I'm Yu-Hsi Jen 👋
 Welcome to my GitHub profile!
 
 ## About Me
-I am a seasoned technical project manager and software developer with a passion for creating efficient digital solutions. I hold an MBA and several from IT to Finance certifications including PMP, CSM, and PMI-ACP, reflecting my dedication to professional growth and project excellence.
+I am a Technical Solution Architect with a rich background in software development, dedicated to integrating cutting-edge technologies into practical, real-world applications. Holding an MBA alongside with some IT and finance certifications like PMP, CSM, and PMI-ACP, I bring a disciplined yet innovative approach to digital solutions development.
 
-In my current role, I am deeply involved in leveraging Microsoft's ecosystem, specifically Azure AI and LLM models, to enhance end to end business processes and deliver digital solutions for the business.
+Currently, I am focused on harnessing the power of Microsoft Azure, AI, and Large Language Models (LLM) to drive transformative changes in business processes. My goal is to optimize operations and enhance decision-making through advanced technological implementations.
+
+## Currently Working On
+- Utilizing Azure AI and LLMs to develop intelligent automation and predictive digital solutions for various business sectors.
+- Leveraging solutions from MS Power Platform for streamlined business process management and workflow automation.
 
 ## Technical Skills
 - **Languages:** Java, C#
-- **Frameworks/Tools:** Azure AI/ LLM/ SAP BPM
+- **Frameworks/Tools:** Azure AI, LLM, SAP BPM
 - **Databases:** SQL
 - **Project Management:** Agile, Scrum, Kanban
 
-## IT Certifications 
-- Azure AI Engineer Associate
-- Project Management Professional (PMP)
-- PMI Agile Certified Practitioner (PMI-ACP)
-- Certified Scrum Master (CSM)
+## Certifications
+- **AI-102**
+- **PL-900**
+- **PMP**
+- **PMI-ACP**
+- **Certified Scrum Master**
 
 ## Connect with Me
-- **LinkedIn:** [Yu-Hsi Jen](https://www.linkedin.com/in/jenyuhsi/)
+- LinkedIn: [Yu-Hsi Jen](https://www.linkedin.com/in/yuhsijen)
+- Email: [yuhsi.jen@example.com](mailto:yuhsi.jen@example.com)
 
-Feel free to connect and reach out if you want to collaborate on projects or share insights.
-
+Thank you for visiting my profile. Let’s innovate together!
