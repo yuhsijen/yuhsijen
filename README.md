@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile!
 
 ## About Me
-I am a Technical Solution Architect with a rich background in software development, dedicated to integrating cutting-edge technologies into practical, real-world applications. Holding an MBA alongside with some IT and finance certifications like PMP, CSM, and PMI-ACP, I bring a disciplined yet innovative approach to digital solutions development.
+I am a Technical Solution Architect with a rich background in software development and project management, dedicated to integrating cutting-edge technologies into practical, real-world applications. Holding an MBA alongside with IT certifications like PMP, CSM, and PMI-ACP, I bring a disciplined yet innovative approach to digital solutions development.
 
 Currently, I am focused on harnessing the power of Microsoft Azure, AI, and Large Language Models (LLM) to drive transformative changes in business processes. My goal is to optimize operations and enhance decision-making through advanced technological implementations.
 
@@ -25,14 +25,14 @@ Currently, I am focused on harnessing the power of Microsoft Azure, AI, and Larg
 - Leveraging solutions from MS Power Platform for streamlined business process management and workflow automation.
 
 ## Technical Skills
-- **Languages:** Java, C#
+- **Languages:** Java, JavaScript, Python
 - **Frameworks/Tools:** Azure AI, LLM, SAP BPM
 - **Databases:** SQL
 - **Project Management:** Agile, Scrum, Kanban
 
 ## Certifications
-- **AI-102**
-- **PL-900**
+- **Microsoft AI-102**
+- **Microsoft PL-900**
 - **PMP**
 - **PMI-ACP**
 - **Certified Scrum Master**
