@@ -12,33 +12,75 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Yu-Hsi Jen 👋
-Welcome to my GitHub profile!
 
-## About Me
-I am a Technical Solution Architect with a rich background in software development and project management, dedicated to integrating cutting-edge technologies into practical, real-world applications. Holding an MBA alongside with IT certifications like PMP, CSM, and PMI-ACP, I bring a disciplined yet innovative approach to digital solutions development.
+# 👋 Hey there, I am Yu-Hsi (Alex) Jen
 
-Currently, I am focused on harnessing the power of Microsoft Azure, AI, and Large Language Models (LLM) to drive transformative changes in business processes. My goal is to optimize operations and enhance decision-making through advanced technological implementations.
+Welcome to my GitHub!
 
-## Currently Working On
-- Utilizing Azure AI and LLMs to develop intelligent automation and predictive digital solutions for various business sectors.
-- Leveraging solutions from MS Power Platform for streamlined business process management and workflow automation.
+---
 
-## Technical Skills
-- **Languages:** Java, JavaScript, Python
-- **Frameworks/Tools:** Azure AI, LLM, SAP BPM
-- **Databases:** SQL
-- **Project Management:** Agile, Scrum, Kanban
+## 🧠 About Me
 
-## Certifications
-- **Microsoft AI-102**
-- **Microsoft PL-900**
-- **PMP**
-- **PMI-ACP**
-- **Certified Scrum Master**
+I am a former **Technical Solution Architect** stepping into the world of **Data Engineering**.
 
-## Connect with Me
-- LinkedIn: [Yu-Hsi Jen](https://www.linkedin.com/in/yuhsijen)
-- Email: [yuhsi.jen@example.com](mailto:yuhsi.jen@example.com)
+With an MBA, experience in software development, and a project management background in both IT and finance fields, I have spent the last few years building real-world digital solutions — from BPM workflows to AI chatbot solutions — mostly within the SAP and Microsoft ecosystem.
 
-Thank you for visiting my profile. Let’s innovate together!
+Now, I am diving deeper into **data pipelines**, **cloud architecture**, to help businesses make smarter, data-driven decisions.
+
+---
+
+## 🚧 What I am Working On
+
+This GitHub is where I document my transition into data engineering.
+
+You will find:
+- Python notebooks from hands-on practice
+- SQL queries and data modeling ideas
+- Notes from certifications and courses
+
+---
+
+## 🛠 Tech & Tools I Use
+
+**Languages:**  
+`Python`, `SQL`, `Java`, `JavaScript`, 
+
+**Cloud & Platforms:**  
+`Microsoft Azure AI`, `Power Platform`, `SAP BPM`
+
+**Data & Analytics:**  
+`MySQL`, `SQL Server`, `PostgreSQL`
+
+**Dev & Collaboration:**  
+`Git`, `GitHub`, `VS Code`
+
+**Project Delivery:**  
+`Agile`, `Scrum`, `Kanban`, `PowerAutomate`, `PowerApps`
+
+---
+
+## 📜 Certifications
+- Datacamp Certified: **Data Engineer Associate**
+- Microsoft Certified: **Azure AI Engineer Associate (AI-102)**
+- Microsoft Certified: **Power Platform Fundamentals (PL-900)**
+- **Project Management Professional (PMP)**
+- **PMI Agile Certified Practitioner (PMI-ACP)**
+- **Certified Scrum Master (CSM)**
+
+---
+
+## ☕ A Few Fun Facts
+
+- I drink too much coffee. Coding goes better with an iced Americano.
+- I love learning new things and sharing them with others.
+- I work across English, Mandarin, and Japanese — with a global mindset.
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: [linkedin.com/in/yuhsijen](https://www.linkedin.com/in/yuhsijen)
+
+---
+
+Thanks for stopping by! 👇 Feel free to explore my repos and follow along as I grow into my new role.
